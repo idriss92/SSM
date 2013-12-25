@@ -31,8 +31,13 @@ Amener à faire le point nous devrons par employé définir l’EDT exact d’un
 
 Fonctionnement
 Censée être installer sur une borne aux entrées d’une entreprise, l’application fonctionne comme suit : 
+
 1.	L’employé se pointe devant la borne puis prend ensuite une photo  à l’aide de l’application
+
 2.	Avant ou après la prise de photo : l’employé sélectionne son département d’appartenance
+
 3.	Si la phase deux est faite après la phase une, se lance alors la reconnaissance faciale
+
 4.	A cette étape le check in ou check out est effectué. 
+
 5.	(À compléter…)
