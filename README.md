@@ -13,6 +13,8 @@ L’application que nous concevrons aura pour but ultime de pouvoir faire le poi
 Architecture fonctionnelle : 
 Cette application serait architecturée selon le design Pattern MVC. 
 
+***
+
 •	Liste des employés : 
 Contenu dans notre base de données, elle répertoriera l’ensemble des employés travaillant au sein de notre société classés en fonction de leur département d’appartenance.
  
