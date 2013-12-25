@@ -30,6 +30,7 @@ Ce répertoire contiendra toutes les images faciales des employés de l’entrep
 Stocker des images dans une base de données rendrait celle ci et son accès très lourds. Il est donc judicieux de stocker dans notre base de données leur chemins d’accès ainsi que leur nom afin d’automatiser la redirection vers le fichier contenant nos images à comparer afin d’effectuer la reconnaissance faciale.
 
 ***
+***
 •	Stockage dans notre bdd
 Devant faire le point sur les vacances et le reste de RTT, nous devrions donc stocker cette information dans notre bdd qui sera « update » à chaque fois que besoin y aura
 
