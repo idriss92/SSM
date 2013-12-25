@@ -14,6 +14,7 @@ L’application que nous concevrons aura pour but ultime de pouvoir faire le poi
 
 
 Architecture fonctionnelle
+
 Cette application serait architecturée selon le design Pattern MVC. 
 
 ***
